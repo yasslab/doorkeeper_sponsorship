@@ -29,7 +29,8 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 
 ## スポンサー紹介のお願い
 
-特に厳しくチェックするつもりはありませんが，イベントページ末尾などに次のようなスポンサー紹介を入れていただけると助かります :mega: なお，細かな文言やレイアウトなどは適宜修正して頂いて大丈夫です :wrench:  
+特に厳しくチェックするつもりはありませんが，イベントページ末尾などに次のようなスポンサー紹介を入れていただけると助かります :mega: なお，細かな文言やレイアウトなどは適宜修正して頂いて大丈夫です :wrench: なお、弊社のロゴは[コチラ](https://www.dropbox.com/sh/mvjm7ascrn85awb/AADIoBdfQN7YUv3O3jAGfpVGa?dl=0)からダウンロードできます．
+
 ### 紹介例: https://otona-programming.doorkeeper.jp/events/47739
 
 ![紹介例](https://dl.dropboxusercontent.com/u/2819285/doorkeeper_ss-1-2.png)
