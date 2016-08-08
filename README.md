@@ -88,12 +88,12 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 
 ## 本スポンサーシップ提携中のコミュニティ
 
-- [Okinawa Ruby User Group](https://okinawarb.doorkeeper.jp/)
-- [Okinawa Frontend](https://okinawa-frontend.doorkeeper.jp/)
-- [CoderDojo さいたま](https://coderdojo.doorkeeper.jp/)
-- [CoderDojo 飯能](https://coderdojohanno.doorkeeper.jp/)
-- [CoderDojo 豊橋](https://coderdojo-toyohashi.doorkeeper.jp/)
-- [大人のためのプログラミング勉強会](https://otona-programming.doorkeeper.jp/)
+1. [Okinawa.rb (Okinawa Ruby User Group)](https://okinawarb.doorkeeper.jp/)
+1. [Okinawa Frontend](https://okinawa-frontend.doorkeeper.jp/)
+1. [CoderDojo さいたま](https://coderdojo.doorkeeper.jp/)
+1. [CoderDojo 飯能](https://coderdojohanno.doorkeeper.jp/)
+1. [CoderDojo 豊橋](https://coderdojo-toyohashi.doorkeeper.jp/)
+1. [大人のためのプログラミング勉強会](https://otona-programming.doorkeeper.jp/)
 
 ### 関連記事
 
