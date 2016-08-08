@@ -1,10 +1,10 @@
-# コミュニティ運営者向け: Doorkeeperスポンサーシップ
+# :japan: コミュニティ運営者向け: Doorkeeperスポンサーシップ
 
 [YassLab](http://yasslab.jp/) 社が提供する Doorkeeper スポンサーシップに興味を持って頂きありがとうございます! 本資料では，弊社が Doorkeeper の枠を提供する目的や条件，手続き，利用規約などをまとめています．コミュニティ運営者の皆さまが本スポンサーシップを検討する際のご参考になれば幸いです．
 
 _(※ 本スポンサーシップは，Doorkeeper 株式会社の代表取締役 Paul McMahon から事前の承諾を得て実施しております.)_
 
-## 背景と目的
+## :beginner: 背景と目的
 
 Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使えるサービスではなくなります．弊社でも Doorkeeper の代表から現況を直接伺わせて頂き，無料のままでは長続きしないビジネスモデルであると感じました．また，無料のまま無理を続けた結果，Doorkeeper が shutdown および (よりユーザーへの負担が高い方向に) pivot をし，現在の素晴らしいサービスが損なわれてしまう可能性があるとも感じています．ならば，今回の完全有料化を何らかの形で回せるように支援した方が，サービス提供者にとってもユーザー (コミュニティ) にとっても，長期的に見てより良い状況に持っていけるのではないかと考えました．
 
@@ -17,7 +17,7 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 
 実験的な形のため試行錯誤もあるかと思いますが，より継続的なコミュニティ支援の一例となれば嬉しいなと考えております．
 
-## 対象となるコミュニティ
+## :gem: 対象となるコミュニティ
 
 弊社では [Doorkeeper の Plus プラン](https://www.doorkeeper.jp/pricing)に契約しているため，提供できるイベント枠には限りがあります．そのため，下記のコミュニティを優先的に支援いたします．
 
@@ -27,16 +27,16 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 
 もし枠が余っていれば上記以外のコミュニティも支援できると思いますが，枠の数には限りがあるため，基本的には上記のコミュニティを優先して支援していけたらと考えております．ご理解して頂けると幸いです :bow: 
 
-## スポンサー紹介のお願い
+## :mega: スポンサー紹介のお願い 
 
-特に厳しくチェックするつもりはありませんが，イベントページ下部などに次のようなスポンサー紹介を入れて頂けると助かります :mega: 細かな文言やレイアウトなどは適宜修正して頂いて大丈夫です :wrench: 弊社のロゴデータは[コチラ](https://www.dropbox.com/sh/mvjm7ascrn85awb/AADIoBdfQN7YUv3O3jAGfpVGa?dl=0)からダウンロードできます．
+特に厳しくチェックするつもりはありませんが，イベントページ下部などに次のようなスポンサー紹介を入れて頂けると助かります! 細かな文言やレイアウトなどは適宜修正して頂いて大丈夫です :ok_hand: また，弊社のロゴデータは[コチラ](https://www.dropbox.com/sh/mvjm7ascrn85awb/AADIoBdfQN7YUv3O3jAGfpVGa?dl=0)からダウンロードできます．
 
-### 紹介例: https://otona-programming.doorkeeper.jp/events/47739
+### :page_facing_up: 紹介例: https://otona-programming.doorkeeper.jp/events/47739
 
 ![紹介例](https://dl.dropboxusercontent.com/u/2819285/doorkeeper_ss-1-2.png)
 
 
-### コピペ用Markdown (改変も可)
+### :memo: コピペ用Markdown (改変も可)
 
 ```markdown
 ## スポンサー
@@ -46,7 +46,7 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 [![YassLab](https://dl.dropboxusercontent.com/u/2819285/yasslab_logo_copy.png)](http://yasslab.jp/)
 ```
 
-## イベント枠提供までの手続き
+## :ticket: イベント枠提供までの手続き
 
 Doorkeeper では，コミュニティのオーナーが決済をする仕組みになっております．そのため，弊社が購入したイベント枠を使用するためには，弊社の Doorkeeper アカウント (YassLab) をオーナーに設定する必要があります．したがって，弊社がイベント枠を代理で決済するためには，
 
@@ -55,13 +55,13 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 
 の２つの手続きが必要です．以下に，その具体的な手順を示します．
 
-### 1. 管理者として追加
+### 1. 管理者として追加 :incoming_envelope: 
 
 まずは、[主催しているコミュニティのページ](https://manage.doorkeeper.jp/user/administered_groups)から当該コミュニティをクリックし、コミュニティ管理画面に行ってください．その後，コミュニティ管理画面から「設定」→「管理者」→「新しい管理者を招待」と進み，YassLab アカウント (admin@yasslab.jp) を追加してください．すると弊社のアカウント宛にメールで通知が来るので，弊社の担当者が３営業日以内に承諾いたします.
 
 ![管理者の追加例](https://dl.dropboxusercontent.com/u/2819285/doorkeeper_ss-2.png)
 
-### 2. オーナーの変更
+### 2. オーナーの変更 :busts_in_silhouette: 
 
 弊社アカウントが管理者になった後，同画面から「オーナーの変更」をクリックし，YassLab アカウントに対して「オーナー権限を委譲」してください．
 
@@ -69,7 +69,7 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 
 以上で手続きは完了です．以降，弊社が購入したイベント枠を利用することが可能になります :ticket: :sparkles: 
 
-## 利用規約
+## :bookmark_tabs: 利用規約
 
 本スポンサーシップを利用するにあたって，以下の利用規約にご同意をお願い致します．
 
@@ -86,7 +86,7 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 
 なお，本利用規約は，各コミュニティ運営者に事前に通達をした上で，変更される可能性があります．ご了承のほど，よろしくお願い致します．
 
-## 本スポンサーシップ提携中のコミュニティ
+## :couple: 本スポンサーシップ提携中のコミュニティ
 
 1. [Okinawa.rb (Okinawa Ruby User Group)](https://okinawarb.doorkeeper.jp/)
 1. [Okinawa Frontend](https://okinawa-frontend.doorkeeper.jp/)
@@ -95,13 +95,13 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 1. [CoderDojo 豊橋](https://coderdojo-toyohashi.doorkeeper.jp/)
 1. [大人のためのプログラミング勉強会](https://otona-programming.doorkeeper.jp/)
 
-### 関連記事
+### :newspaper: 関連記事
 
 - [【意見】Doorkeeperは定額制ではなくチケット制の料金プランを導入してほしい](http://blog.jnito.com/entry/2016/07/26/075226) - give IT a try
 - [Doorkeeperを使用しているコミュニティの主催者をCo-Edoが支援します](http://blog.coworking.tokyo.jp/2016/08/doorkeeper.html) - コワーキングスペース萱場町 Co-Edo
 - [主催者の皆さまにご利用料をお支払いいただく理由](https://www.doorkeeper.jp/news/2016/7/25/why-charge-organisers) - Doorkeeper
 
-## 問い合わせ先
+## :postbox: 問い合わせ先
 
 本スポンサーシップに関するご意見やご質問，および申込み希望などがありましたら，下記の問い合わせ先までお気軽にご連絡ください．申込み希望の場合，上記の利用規約に同意したという一文も付記していただけると助かります．
 
@@ -109,7 +109,7 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 - ウェブ: http://yasslab.jp/
 - 担当者: YassLab 安川 要平
 
-## ライセンス
+## :recycle: ライセンス
 
 [![CC BY-SA International](https://raw.githubusercontent.com/yasslab/railsguides.jp/japanese/images/CC-BY-SA.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
 
