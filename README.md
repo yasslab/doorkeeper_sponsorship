@@ -1,4 +1,4 @@
-# コミュニティ運営者向け: Doorkeeperスポンサー資料
+# コミュニティ運営者向け: Doorkeeperスポンサーシップ
 
 [YassLab](http://yasslab.jp/) 社が提供する Doorkeeper スポンサーシップに興味を持って頂きありがとうございます! 本資料では，弊社が Doorkeeper の枠を提供する目的や条件，手続き，利用規約などをまとめています．コミュニティ運営者の皆さまが本スポンサーシップを検討する際のご参考になれば幸いです．
 
@@ -11,7 +11,7 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 そこで，Doorkeeper とコミュニティ，および弊社が共に発展していけるよう，Doorkeeper からの許諾を得た上で，弊社では次のような形で Doorkeeper とコミュニティを支援することにしました．
 
 ![スポンサーシップ提供例](https://dl.dropboxusercontent.com/u/2819285/doorkeeper_sample.png)
-<center>図. Okinawa Ruby User Group ([Okinawa.rb](http://ruby.okinawa/)) に対するスポンサーシップの提供例</center>
+<div style="text-align:center">図. Okinawa Ruby User Group ([Okinawa.rb](http://ruby.okinawa/)) に対するスポンサーシップの提供例</div>
 
 上記の形で支援することで，将来にわたって長期的に良いサービスを提供したい Doorkeeper にとっても，引き続き Doorkeeper を利用したいコミュニティにとっても，また，コミュニティを支援する企業として周知していきたい弊社にとっても良い関係性を築けるのではないかと考えております．
 
@@ -29,7 +29,7 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 
 ## スポンサー紹介のお願い
 
-特に厳しくチェックするつもりはありませんが，イベントページ末尾などに次のようなスポンサー紹介を入れていただけると助かります :mega: また，細かな文言やレイアウトなどは適宜修正して頂いて大丈夫です :wrench: なお，弊社のロゴ画像のデータは[コチラ](https://www.dropbox.com/sh/mvjm7ascrn85awb/AADIoBdfQN7YUv3O3jAGfpVGa?dl=0)からダウンロードできます．
+特に厳しくチェックするつもりはありませんが，イベントページ下部などに次のようなスポンサー紹介を入れて頂けると助かります :mega: 細かな文言やレイアウトなどは適宜修正して頂いて大丈夫です :wrench: 弊社のロゴデータは[コチラ](https://www.dropbox.com/sh/mvjm7ascrn85awb/AADIoBdfQN7YUv3O3jAGfpVGa?dl=0)からダウンロードできます．
 
 ### 紹介例: https://otona-programming.doorkeeper.jp/events/47739
 
