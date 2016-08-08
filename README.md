@@ -29,17 +29,19 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 
 ## スポンサー紹介のお願い
 
-特に厳しくチェックするつもりはありませんが，イベントページ末尾などに次のようなスポンサー紹介を入れていただけると助かります :mega: なお，細かな文言やレイアウトなどは適宜修正して頂いて大丈夫です :wrench: なお、弊社のロゴは[コチラ](https://www.dropbox.com/sh/mvjm7ascrn85awb/AADIoBdfQN7YUv3O3jAGfpVGa?dl=0)からダウンロードできます．
+特に厳しくチェックするつもりはありませんが，イベントページ末尾などに次のようなスポンサー紹介を入れていただけると助かります :mega: また，細かな文言やレイアウトなどは適宜修正して頂いて大丈夫です :wrench: なお，弊社のロゴ画像のデータは[コチラ](https://www.dropbox.com/sh/mvjm7ascrn85awb/AADIoBdfQN7YUv3O3jAGfpVGa?dl=0)からダウンロードできます．
 
 ### 紹介例: https://otona-programming.doorkeeper.jp/events/47739
 
 ![紹介例](https://dl.dropboxusercontent.com/u/2819285/doorkeeper_ss-1-2.png)
 
 
+### コピペ用Markdown (改変も可)
+
 ```markdown
 ## スポンサー
 
-本イベントページは，オープンソースコミュニティを支援する [YassLab](http://yasslab.jp/) が提供しております．詳細はコミュニティ運営者向け [Doorkeeper スポンサー資料](https://www.dropbox.com/s/b8e37if65ruhu52/Doorkeeper%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E8%B3%87%E6%96%99.pdf?dl=0)をご参照ください．
+本イベントページは，オープンソースコミュニティを支援する [YassLab](http://yasslab.jp/) が提供しております．詳細はコミュニティ運営者向け [Doorkeeper スポンサー資料](https://github.com/yasslab/doorkeeper_sponsorship)をご参照ください．
 
 [![YassLab](https://dl.dropboxusercontent.com/u/2819285/yasslab_logo_copy.png)](http://yasslab.jp/)
 ```
@@ -76,7 +78,7 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 3. 弊社がコミュニティ運営に関わっている場合，および，弊社が利用者から許諾をもらった場合を除き, **弊社がコミュニティ運営に携わったり，イベントページを操作することはありません.**
 4. 支援するコミュニティに上限があるため，対象コミュニティであっても，スポンサーシップを提供できない場合があります．また，既にスポンサーシップを提供している場合であっても，弊社から事前に通達をした上で，途中でスポンサーシップの提供を終える場合があります．
 5. 次回の開催予定イベントの無い状態が３ヶ月以上続き，コミュニティ活動が停止していると弊社が判断できた場合，事前に通達をした上で，イベント枠の提供を中止することがあります．
-6. 本スポンサーシップは2016年9月から起算して1年単位で振り返り，継続していくかどうかは2017年8月末にご確認致します．お互いの合意が得られれば，次年度も更新することとします．
+6. 本スポンサーシップは2016年9月から起算して1年単位で振り返り，継続していくかどうかは毎年8月末にご確認致します．お互いの合意が得られれば，次年度も更新することとします．
 7. 弊社の活動実績の紹介などで，支援しているコミュニティ名を公表する場合があります．
 8. コミュニティの名称，活動内容および活動目的などが変更する場合，事前にご連絡ください．
 9. 残りの枠を調整するため，公開中の開催予定イベントが３つを超える場合，事前にご連絡ください．
@@ -87,9 +89,10 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 ## 本スポンサーシップ提携中のコミュニティ
 
 - [Okinawa Ruby User Group](https://okinawarb.doorkeeper.jp/)
-- [Okinawa Frontend](https://okinawa-frontend.doorkeeper.jp/))
+- [Okinawa Frontend](https://okinawa-frontend.doorkeeper.jp/)
 - [CoderDojo さいたま](https://coderdojo.doorkeeper.jp/)
 - [CoderDojo 飯能](https://coderdojohanno.doorkeeper.jp/)
+- [CoderDojo 豊橋](https://coderdojo-toyohashi.doorkeeper.jp/)
 - [大人のためのプログラミング勉強会](https://otona-programming.doorkeeper.jp/)
 
 ### 関連記事
