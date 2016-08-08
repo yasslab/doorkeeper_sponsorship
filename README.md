@@ -113,10 +113,8 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 
 [![CC BY-SA International](https://raw.githubusercontent.com/yasslab/railsguides.jp/japanese/images/CC-BY-SA.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
 
-本スポンサーシップの内容は，[クリエイティブ・コモンズ 表示-継承 4.0 国際](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) (CC BY-SA 4.0) ライセンスに基づいて公開しています．
+本スポンサーシップの内容は[クリエイティブ・コモンズ 表示-継承 4.0 国際](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) (CC BY-SA 4.0) ライセンスに基づいて公開しています．
 
 Doorkeeperスポンサーシップの提供をご検討している企業・個人のご参考になれば幸いです :bow:
 
-
-
-
+Copyright &copy; 2016 [YassLab](http://yasslab.jp/)
