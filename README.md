@@ -92,7 +92,7 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 <tr>
 <th style="text-align: center">Okinawa.rb</th>
 <th style="text-align: center">Okinawa Frontend</th>
-<th style="text-align: center">大人のためのプログラミング勉強会</th>
+<th style="text-align: center">大人のためのプログラミング</th>
 </tr>
 </thead><tbody>
 <tr>
