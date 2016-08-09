@@ -90,9 +90,9 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 
 <table><thead>
 <tr>
-<th style="text-align: center">Okinawa.rb</th>
-<th style="text-align: center">Okinawa Frontend</th>
-<th style="text-align: center">大人のためのプログラミング</th>
+<th style="text-align: center"><a href="https://okinawarb.doorkeeper.jp/">Okinawa.rb</a></th>
+<th style="text-align: center"><a href="https://okinawa-frontend.doorkeeper.jp/">Okinawa Frontend</a></th>
+<th style="text-align: center"><a href="https://otona-programming.doorkeeper.jp/">大人のためのプログラミング</a></th>
 </tr>
 </thead><tbody>
 <tr>
@@ -105,9 +105,9 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 
 <table><thead>
 <tr>
-<th style="text-align: center">CoderDojo さいたま</th>
-<th style="text-align: center">CoderDojo 飯能</th>
-<th style="text-align: center">CoderDojo 豊橋</th>
+<th style="text-align: center"><a href="https://coderdojo.doorkeeper.jp/">CoderDojo さいたま</a></th>
+<th style="text-align: center"><a href="https://coderdojohanno.doorkeeper.jp/">CoderDojo 飯能</a></th>
+<th style="text-align: center"><a href="https://coderdojo-toyohashi.doorkeeper.jp/">CoderDojo 豊橋</a></th>
 </tr>
 </thead><tbody>
 <tr>
