@@ -88,14 +88,35 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 
 ## :couple: 本スポンサーシップ提携中のコミュニティ
 
-1. [Okinawa.rb (Okinawa Ruby User Group)](https://okinawarb.doorkeeper.jp/)
-   ![Okinawa.rb Logo](https://dl.dropboxusercontent.com/u/2819285/okinawarb-logo-rect.png)
-1. [Okinawa Frontend](https://okinawa-frontend.doorkeeper.jp/)
-   ![Okinawa Frontend Logo](https://dl.dropboxusercontent.com/u/2819285/okinawa_frontend.png)
-1. [CoderDojo さいたま](https://coderdojo.doorkeeper.jp/)
-1. [CoderDojo 飯能](https://coderdojohanno.doorkeeper.jp/)
-1. [CoderDojo 豊橋](https://coderdojo-toyohashi.doorkeeper.jp/)
-1. [大人のためのプログラミング勉強会](https://otona-programming.doorkeeper.jp/)
+<table><thead>
+<tr>
+<th style="text-align: center">Okinawa.rb</th>
+<th style="text-align: center">Okinawa Frontend</th>
+<th style="text-align: center">大人のためのプログラミング勉強会</th>
+</tr>
+</thead><tbody>
+<tr>
+<td style="text-align: center"><a href="https://okinawarb.doorkeeper.jp" rel="nofollow">
+<img width="200px" src="https://dl.dropboxusercontent.com/u/2819285/okinawarb-logo-square.png" alt="Okinawa Ruby User Group" width="200px"></a></td>
+<td style="text-align: center"><a href="https://okinawa-frontend.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://dl.dropboxusercontent.com/u/2819285/okinawa_frontend.png" alt="Okinawa Frontend"></a></td>
+<td style="text-align: center"><a href="https://otona-programming.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://dl.dropboxusercontent.com/u/2819285/otona-programming-logo.png" alt="おとプロ"></a></td>
+</tr>
+</tbody></table>
+
+<table><thead>
+<tr>
+<th style="text-align: center">CoderDojo さいたま</th>
+<th style="text-align: center">CoderDojo 飯能</th>
+<th style="text-align: center">CoderDojo 豊橋</th>
+</tr>
+</thead><tbody>
+<tr>
+<td style="text-align: center"><a href="https://coderdojo.doorkeeper.jp/" rel="nofollow">
+<img width="200px" src="https://dl.dropboxusercontent.com/u/2819285/coderdojo-saitama.png" alt="CoderDojo Saitama" width="200px"></a></td>
+<td style="text-align: center"><a href="https://coderdojohanno.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://dl.dropboxusercontent.com/u/2819285/coderdojo-hanno.png" alt="CoderDojo Hanno"></a></td>
+<td style="text-align: center"><a href="https://coderdojo-toyohashi.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://dl.dropboxusercontent.com/u/2819285/coderdojo-toyohashi.png" alt="CoderDojo Toyohashi"></a></td>
+</tr>
+</tbody></table>
 
 ### :newspaper: 関連記事
 
