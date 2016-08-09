@@ -11,7 +11,7 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 そこで，Doorkeeper とコミュニティ，および弊社が共に発展していけるよう，Doorkeeper からの許諾を得た上で，弊社では次のような形で Doorkeeper とコミュニティを支援することにしました．
 
 ![スポンサーシップ提供例](https://dl.dropboxusercontent.com/u/2819285/doorkeeper_sample.png)
-<div style="text-align:center">図. Okinawa Ruby User Group ([Okinawa.rb](http://ruby.okinawa/)) に対するスポンサーシップの提供例</div>
+<p align="center">図. Okinawa Ruby User Group (<a href="http://ruby.okinawa/">Okinawa.rb</a>) に対するスポンサーシップの提供例</p>
 
 上記の形で支援することで，将来にわたって長期的に良いサービスを提供したい Doorkeeper にとっても，引き続き Doorkeeper を利用したいコミュニティにとっても，また，コミュニティを支援する企業として周知していきたい弊社にとっても良い関係性を築けるのではないかと考えております．
 
