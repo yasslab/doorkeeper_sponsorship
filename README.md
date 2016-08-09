@@ -21,7 +21,7 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 
 弊社では [Doorkeeper の Plus プラン](https://www.doorkeeper.jp/pricing)に契約しているため，提供できるイベント枠には限りがあります．そのため，下記のコミュニティを優先的に支援いたします．
 
-- 沖縄のIT系コミュニティ (例: [Okinawa Ruby User Group](https://okinawarb.doorkeeper.jp/), [Okinawa Frontend](https://okinawa-frontend.doorkeeper.jp/))
+- 沖縄のIT系コミュニティ (例: [Okinawa.rb](https://okinawarb.doorkeeper.jp/), [Okinawa Frontend](https://okinawa-frontend.doorkeeper.jp/))
 - CoderDojo コミュニティ (例: [CoderDojo さいたま](https://coderdojo.doorkeeper.jp/), [CoderDojo 飯能](https://coderdojohanno.doorkeeper.jp/))
 - 他，弊社が関わっているコミュニティ (例: [大人のためのプログラミング勉強会](https://otona-programming.doorkeeper.jp/))
 
