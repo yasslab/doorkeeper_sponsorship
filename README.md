@@ -33,7 +33,7 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 
 ### :page_facing_up: 紹介例: https://otona-programming.doorkeeper.jp/events/47739
 
-![紹介例](https://dl.dropboxusercontent.com/u/2819285/doorkeeper_ss-1-2.png)
+![紹介例](https://dl.dropboxusercontent.com/u/2819285/doorkeeper_ss-1.png)
 
 
 ### :memo: コピペ用Markdown (改変も可)
