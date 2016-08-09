@@ -89,7 +89,9 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 ## :couple: 本スポンサーシップ提携中のコミュニティ
 
 1. [Okinawa.rb (Okinawa Ruby User Group)](https://okinawarb.doorkeeper.jp/)
+   ![Okinawa.rb Logo](https://dl.dropboxusercontent.com/u/2819285/okinawarb-logo-rect.png)
 1. [Okinawa Frontend](https://okinawa-frontend.doorkeeper.jp/)
+   ![Okinawa Frontend Logo](https://dl.dropboxusercontent.com/u/2819285/okinawa_frontend.png)
 1. [CoderDojo さいたま](https://coderdojo.doorkeeper.jp/)
 1. [CoderDojo 飯能](https://coderdojohanno.doorkeeper.jp/)
 1. [CoderDojo 豊橋](https://coderdojo-toyohashi.doorkeeper.jp/)
