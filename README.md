@@ -97,9 +97,9 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 </thead><tbody>
 <tr>
 <td style="text-align: center"><a href="https://okinawarb.doorkeeper.jp" rel="nofollow">
-<img width="200px" src="https://dl.dropboxusercontent.com/u/2819285/okinawarb-logo-square.png" alt="Okinawa Ruby User Group" width="200px"></a></td>
-<td style="text-align: center"><a href="https://okinawa-frontend.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://dl.dropboxusercontent.com/u/2819285/okinawa_frontend.png" alt="Okinawa Frontend"></a></td>
-<td style="text-align: center"><a href="https://otona-programming.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://dl.dropboxusercontent.com/u/2819285/otona-programming-logo.png" alt="おとプロ"></a></td>
+<img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/65cc0e77d695ec037b8fecccdc2495fa6d76bcbd/logo/okinawarb.png" alt="Okinawa Ruby User Group" width="200px"></a></td>
+<td style="text-align: center"><a href="https://okinawa-frontend.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/65cc0e77d695ec037b8fecccdc2495fa6d76bcbd/logo/okinawa_frontend.png" alt="Okinawa Frontend"></a></td>
+<td style="text-align: center"><a href="https://otona-programming.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/65cc0e77d695ec037b8fecccdc2495fa6d76bcbd/logo/otona-programming.png" alt="おとプロ"></a></td>
 </tr>
 </tbody></table>
 
@@ -112,9 +112,9 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 </thead><tbody>
 <tr>
 <td style="text-align: center"><a href="https://coderdojo.doorkeeper.jp/" rel="nofollow">
-<img width="200px" src="https://dl.dropboxusercontent.com/u/2819285/coderdojo-saitama.png" alt="CoderDojo Saitama" width="200px"></a></td>
-<td style="text-align: center"><a href="https://coderdojohanno.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://dl.dropboxusercontent.com/u/2819285/coderdojo-hanno.png" alt="CoderDojo Hanno"></a></td>
-<td style="text-align: center"><a href="https://coderdojo-toyohashi.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://dl.dropboxusercontent.com/u/2819285/coderdojo-toyohashi.png" alt="CoderDojo Toyohashi"></a></td>
+<img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/65cc0e77d695ec037b8fecccdc2495fa6d76bcbd/logo/coderdojo-saitama.png" alt="CoderDojo Saitama" width="200px"></a></td>
+<td style="text-align: center"><a href="https://coderdojohanno.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/65cc0e77d695ec037b8fecccdc2495fa6d76bcbd/logo/coderdojo-hanno.png" alt="CoderDojo Hanno"></a></td>
+<td style="text-align: center"><a href="https://coderdojo-toyohashi.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/65cc0e77d695ec037b8fecccdc2495fa6d76bcbd/logo/coderdojo-toyohashi.png" alt="CoderDojo Toyohashi"></a></td>
 </tr>
 </tbody></table>
 
