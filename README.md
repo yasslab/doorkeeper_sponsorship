@@ -57,7 +57,7 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 
 ### 1. 管理者として追加 :incoming_envelope: 
 
-まずは、[主催しているコミュニティのページ](https://manage.doorkeeper.jp/user/administered_groups)から当該コミュニティをクリックし、コミュニティ管理画面に行ってください．その後，コミュニティ管理画面から「設定」→「管理者」→「新しい管理者を招待」と進み，YassLab アカウント (admin@yasslab.jp) を追加してください．すると弊社のアカウント宛にメールで通知が来るので，弊社の担当者が３営業日以内に承諾いたします.
+まずは、[主催しているコミュニティのページ](https://manage.doorkeeper.jp/user/administered_groups)から当該コミュニティをクリックし、コミュニティ管理画面に行ってください．その後，コミュニティ管理画面から「設定」→「管理者」→「新しい管理者を招待」と進み，YassLab アカウント (doorkeeper@yasslab.jp) を追加してください．すると弊社のアカウント宛にメールで通知が来るので，弊社の担当者が３営業日以内に承諾いたします.
 
 ![管理者の追加例](https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/65cc0e77d695ec037b8fecccdc2495fa6d76bcbd/img/doorkeeper_ss-2.png)
 
