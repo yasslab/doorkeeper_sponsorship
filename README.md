@@ -43,7 +43,7 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 
 本イベントページはオープンソースコミュニティを支援する [YassLab](http://yasslab.jp/) が提供しております．詳細はコミュニティ運営者向け [Doorkeeper スポンサー資料](https://github.com/yasslab/doorkeeper_sponsorship)をご参照ください．
 
-[![YassLab](https://dl.dropboxusercontent.com/u/2819285/yasslab_logo_copy.png)](http://yasslab.jp/)
+[![YassLab](http://yasslab.jp/img/logo_800x200.png)](http://yasslab.jp/)
 ```
 
 ## :ticket: イベント枠提供までの手続き
