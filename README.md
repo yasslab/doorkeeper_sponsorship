@@ -10,7 +10,7 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 
 そこで，Doorkeeper とコミュニティ，および弊社が共に発展していけるよう，Doorkeeper からの許諾を得た上で，弊社では次のような形で Doorkeeper とコミュニティを支援することにしました．
 
-![スポンサーシップ提供例](https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/65cc0e77d695ec037b8fecccdc2495fa6d76bcbd/img/doorkeeper_sample.png)
+![スポンサーシップ提供例](https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/img/doorkeeper_sample.png)
 <p align="center">図. Okinawa Ruby User Group (<a href="http://ruby.okinawa/">Okinawa.rb</a>) に対するスポンサーシップの提供例</p>
 
 上記の形で支援することで，将来にわたって長期的に良いサービスを提供したい Doorkeeper にとっても，引き続き Doorkeeper を利用したいコミュニティにとっても，また，コミュニティを支援する企業として周知していきたい弊社にとっても良い関係性を築けるのではないかと考えております．
@@ -33,7 +33,7 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 
 ### :page_facing_up: 紹介例: https://otona-programming.doorkeeper.jp/events/47739
 
-![紹介例](https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/65cc0e77d695ec037b8fecccdc2495fa6d76bcbd/img/doorkeeper_ss-1.png)
+![紹介例](https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/img/doorkeeper_ss-1.png)
 
 
 ### :memo: コピペ用Markdown (改変も可)
@@ -59,13 +59,13 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 
 まずは、[主催しているコミュニティのページ](https://manage.doorkeeper.jp/user/administered_groups)から当該コミュニティをクリックし、コミュニティ管理画面に行ってください．その後，コミュニティ管理画面から「設定」→「管理者」→「新しい管理者を招待」と進み，YassLab アカウント (doorkeeper@yasslab.jp) を追加してください．すると弊社のアカウント宛にメールで通知が来るので，弊社の担当者が３営業日以内に承諾いたします.
 
-![管理者の追加例](https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/65cc0e77d695ec037b8fecccdc2495fa6d76bcbd/img/doorkeeper_ss-2.png)
+![管理者の追加例](https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/img/doorkeeper_ss-2.png)
 
 ### 2. オーナーの変更 :busts_in_silhouette: 
 
 弊社アカウントが管理者になった後，同画面から「オーナーの変更」をクリックし，YassLab アカウントに対して「オーナー権限を委譲」してください．
 
-![オーナーの変更例](https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/65cc0e77d695ec037b8fecccdc2495fa6d76bcbd/img/doorkeeper_ss-3.png)
+![オーナーの変更例](https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/img/doorkeeper_ss-3.png)
 
 以上で手続きは完了です．以降，弊社が購入したイベント枠を利用することが可能になります :ticket: :sparkles: 
 
