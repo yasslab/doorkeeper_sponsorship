@@ -31,7 +31,7 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 
 特に厳しくチェックするつもりはありませんが，イベントページ下部などに次のようなスポンサー紹介を入れて頂けると助かります! 細かな文言やレイアウトなどは適宜修正して頂いて大丈夫です :ok_hand: また，弊社のロゴデータは[コチラ](https://www.dropbox.com/sh/mvjm7ascrn85awb/AADIoBdfQN7YUv3O3jAGfpVGa?dl=0)からダウンロードできます．
 
-### :page_facing_up: 紹介例: https://otona-programming.doorkeeper.jp/events/47739
+### :page_facing_up: 紹介例: [大人のためのプログラミング勉強会 #6](https://otona-programming.doorkeeper.jp/events/47739)
 
 ![紹介例](https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/img/doorkeeper_ss-1.png)
 
@@ -92,7 +92,7 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 <tr>
 <th style="text-align: center"><a href="https://okinawarb.doorkeeper.jp/">Okinawa.rb</a></th>
 <th style="text-align: center"><a href="https://okinawa-frontend.doorkeeper.jp/">Okinawa Frontend</a></th>
-<th style="text-align: center"><a href="https://otona-programming.doorkeeper.jp/">大人のためのプログラミング</a></th>
+<th style="text-align: center"><a href="https://otona-programming.doorkeeper.jp/">Otona Programming</a></th>
 </tr>
 </thead><tbody>
 <tr>
