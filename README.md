@@ -128,7 +128,7 @@ Doorkeeper では，コミュニティのオーナーが決済をする仕組み
 <tr>
 <td style="text-align: center"><a href="https://igda-ryukyus.doorkeeper.jp/" rel="nofollow">
 <img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/logo/igda-ryukyus.png" alt="IGDA琉球大学 (琉ゲ部)" width="200px"></a></td>
-<td style="text-align: center"><a href="https://coderdojohanno.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/logo/coderdojo-nakano.png" alt="CoderDojo 中野"></a></td>
+<td style="text-align: center"><a href="https://coderdojonakano.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/logo/coderdojo-nakano.png" alt="CoderDojo 中野"></a></td>
 <td style="text-align: center"><a href="https://81c679e9fefbfb12c9f2c981ad.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/logo/coderdojo-nishinari.jpg" alt="CoderDojo 西成"></a></td>
 </tr>
 </tbody></table>
