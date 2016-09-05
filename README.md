@@ -142,7 +142,7 @@ src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/log
 </tr>
 </thead><tbody>
 <tr>
-<td style="text-align: center"><a href="https://coderdojo-japan.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/logo/coderdojo-japan.jpg" alt="CoderDojo Japan"></a></td>
+<td style="text-align: center"><a href="https://coderdojo-japan.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/logo/coderdojo-japan.png" alt="CoderDojo Japan"></a></td>
 <td style="text-align: center"><a href="https://nilquebe-event.doorkeeper.jp/" rel="nofollow">
 <img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/logo/nilquebe.png" alt="Nilquebe" width="200px"></a></td>
 <td style="text-align: center"><a href="https://otona-programming.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/logo/otona-programming.png" alt="おとプロ"></a></td>
