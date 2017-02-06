@@ -182,4 +182,4 @@ src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/log
 
 Doorkeeperスポンサーシップの提供をご検討している企業・個人のご参考になれば幸いです :bow:
 
-Copyright &copy; 2016 [YassLab](https://yasslab.jp/)
+Copyright &copy; 2016-2017 [YassLab](https://yasslab.jp/)
