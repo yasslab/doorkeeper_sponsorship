@@ -1,6 +1,6 @@
 # コミュニティ運営者向け: Doorkeeperスポンサーシップ
 
-[YassLab](http://yasslab.jp/) 社が提供する Doorkeeper スポンサーシップに興味を持って頂きありがとうございます! 本資料では，弊社が Doorkeeper の枠を提供する目的や条件，手続き，利用規約などをまとめています．コミュニティ運営者の皆さまが本スポンサーシップを検討する際のご参考になれば幸いです．
+[YassLab](https://yasslab.jp/) 社が提供する Doorkeeper スポンサーシップに興味を持って頂きありがとうございます! 本資料では，弊社が Doorkeeper の枠を提供する目的や条件，手続き，利用規約などをまとめています．コミュニティ運営者の皆さまが本スポンサーシップを検討する際のご参考になれば幸いです．
 
 _(※ 本スポンサーシップは，Doorkeeper 株式会社の代表取締役 Paul McMahon から事前の承諾を得て実施しております.)_
 
@@ -41,9 +41,9 @@ Doorkeeper の完全有料化に伴って，2016年9月1日から無料で使え
 ```markdown
 ## スポンサー
 
-本イベントページはオープンソースコミュニティを支援する [YassLab](http://yasslab.jp/) が提供しております。詳細はコミュニティ運営者向け [Doorkeeper スポンサー資料](http://doorkeeper.yasslab.jp/)をご参照ください。
+本イベントページはオープンソースコミュニティを支援する [YassLab](https://yasslab.jp/) が提供しております。詳細はコミュニティ運営者向け [Doorkeeper スポンサー資料](http://doorkeeper.yasslab.jp/)をご参照ください。
 
-[![YassLab](http://yasslab.jp/img/logo_800x200.png)](http://yasslab.jp/)
+[![YassLab](https://yasslab.jp/img/logo_800x200.png)](https://yasslab.jp/)
 ```
 
 ## :ticket: イベント枠提供までの手続き
@@ -160,7 +160,7 @@ src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/log
 本スポンサーシップに関するご意見やご質問，および申込み希望などがありましたら，下記の問い合わせ先までお気軽にご連絡ください．申込み希望の場合，上記の利用規約に同意したという一文も付記していただけると助かります．
 
 - メール: yohei@yasslab.jp
-- ウェブ: http://yasslab.jp/
+- ウェブ: https://yasslab.jp/
 - 担当者: YassLab 安川 要平
 
 ## :recycle: ライセンス
@@ -171,4 +171,4 @@ src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/log
 
 Doorkeeperスポンサーシップの提供をご検討している企業・個人のご参考になれば幸いです :bow:
 
-Copyright &copy; 2016 [YassLab](http://yasslab.jp/)
+Copyright &copy; 2016 [YassLab](https://yasslab.jp/)
