@@ -149,6 +149,17 @@ src="https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/log
 </tr>
 </tbody></table>
 
+<table><thead>
+<tr>
+<th style="text-align: center"><a href="https://coderdojookinawa.doorkeeper.jp/">CoderDojo 沖縄</a></th>
+</tr>
+</thead><tbody>
+<tr>
+<td style="text-align: center"><a href="https://coderdojookinawa.doorkeeper.jp/" rel="nofollow"><img width="200px" src="https://coderdojo.jp/img/dojos/coderdojo_okinawa.png" alt="CoderDojo 沖縄"></a></td>
+</tr>
+</tbody></table>
+
+
 ### :newspaper: 関連記事
 
 - [【意見】Doorkeeperは定額制ではなくチケット制の料金プランを導入してほしい](http://blog.jnito.com/entry/2016/07/26/075226) - give IT a try
