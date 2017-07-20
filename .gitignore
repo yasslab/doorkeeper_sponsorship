@@ -1,4 +1,7 @@
-### https://raw.github.com/github/gitignore/097db81c08b138dea7cb031eb18eeb16afe44bdf/Global/OSX.gitignore
+# Ignore direnv
+.envrc
+
+### https://raw.github.com/github/gitignore/master/Global/OSX.gitignore
 
 .DS_Store
 .AppleDouble
@@ -22,7 +25,7 @@ Temporary Items
 .apdisk
 
 
-### https://raw.github.com/github/gitignore/097db81c08b138dea7cb031eb18eeb16afe44bdf/Global/Emacs.gitignore
+### https://raw.github.com/github/gitignore/master/Global/Emacs.gitignore
 
 # -*- mode: gitignore; -*-
 *~
@@ -55,13 +58,46 @@ tramp
 /auto/
 
 
-### https://raw.github.com/github/gitignore/097db81c08b138dea7cb031eb18eeb16afe44bdf/Global/Vim.gitignore
+### https://raw.github.com/github/gitignore/master/Ruby.gitignore
 
-[._]*.s[a-w][a-z]
-[._]s[a-w][a-z]
-*.un~
-Session.vim
-.netrwhist
-*~
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/test/tmp/
+/test/version_tmp/
+/tmp/
 
+## Specific to RubyMotion:
+.dat*
+.repl_history
+build/
+
+## Documentation cache and generated files:
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+
+## Environment normalisation:
+/.bundle/
+/lib/bundler/man/
+
+# for a library or gem, you might want to ignore these files since the code is
+# intended to run in multiple environments; otherwise, check them in:
+# Gemfile.lock
+# .ruby-version
+# .ruby-gemset
+
+# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
+.rvmrc
+
+
+### https://raw.github.com/github/gitignore/master/Jekyll.gitignore
+
+_site/
+vendor/
 
