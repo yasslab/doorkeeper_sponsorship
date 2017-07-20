@@ -1,0 +1,28 @@
+permalink: /:title
+author:
+  name:  YassLab
+  email: yohei@yasslab.jp
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://yasslab.jp" # the base hostname & protocol for your site
+twitter_username: yasslab
+github_username:  yasslab
+source:      ./
+destination: ./_site
+timezone: Asia/Tokyo
+encoding: utf-8
+
+highlighter: rouge
+markdown: kramdown
+gems:     ['kramdown']
+exclude:
+  - README.md
+  - Procfile
+  - Gemfile
+  - Gemfile.lock
+  - config.ru
+  - vendor
+  - app.json
+  - test
+  - spec
+
