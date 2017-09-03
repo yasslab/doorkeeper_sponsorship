@@ -1,3 +1,5 @@
+**NOTE: 最新版は [https://yasslab.jp/ja/doorkeeper/](https://yasslab.jp/ja/doorkeeper/) からご確認ください**
+
 # コミュニティ運営者向け: Doorkeeperスポンサーシップ
 
 [YassLab](https://yasslab.jp/) 社が提供する Doorkeeper スポンサーシップに興味を持って頂きありがとうございます! 本資料では，弊社が Doorkeeper の枠を提供する目的や条件，手続き，利用規約などをまとめています．コミュニティ運営者の皆さまが本スポンサーシップを検討する際のご参考になれば幸いです．
