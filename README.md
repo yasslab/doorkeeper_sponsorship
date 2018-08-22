@@ -6,14 +6,5 @@
 
 _(※ 本スポンサーシップは，Doorkeeper 株式会社の代表取締役 Paul McMahon から事前の承諾を得て実施しております.)_
 
-**NOTE: 最新版は [https://yasslab.jp/ja/doorkeeper/](https://yasslab.jp/ja/doorkeeper/) からご確認ください**
+:warning: **NOTE: 本 README は古い情報となっています。最新版は [https://yasslab.jp/ja/doorkeeper/](https://yasslab.jp/ja/doorkeeper/) からご確認ください。**
 
-## :recycle: ライセンス
-
-[![CC BY-SA International](https://raw.githubusercontent.com/yasslab/doorkeeper_sponsorship/master/img/CC-BY-SA.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
-
-本スポンサーシップの内容は[クリエイティブ・コモンズ 表示-継承 4.0 国際](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) (CC BY-SA 4.0) ライセンスに基づいて公開しています．
-
-Doorkeeperスポンサーシップの提供をご検討している企業・個人のご参考になれば幸いです :bow:
-
-Copyright &copy; 2016-2018 [YassLab](https://yasslab.jp/)
